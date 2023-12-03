@@ -27,7 +27,7 @@ Run this notebook after to fine-tune SPECTER and SciNCL models using the CS pape
 Run this notebook* after uploading CSFCube-master.zip* for an interactive demo of our retrieval system.
 
 - [SciRepEval_SciBERT_classifier.ipynb](code/SciRepEval_SciBERT_classifier.ipynb)
-Run this notebook to fine-tune SciBERT model to classify the field of study of any research paper.
+Run this notebook to fine-tune SciBERT model for the task of classifying the field of study of any research paper.
 
 - \* upload [CSFCube dataset](datasets/CSFCube-master.zip) before running the notebook \
 - ** upload [PARADE_dataset](datasets/PARADE_dataset-main.zip) before running the notebook
