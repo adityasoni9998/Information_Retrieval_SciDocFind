@@ -29,5 +29,5 @@ Run this notebook* after uploading CSFCube-master.zip* for an interactive demo o
 - [SciRepEval_SciBERT_classifier.ipynb](code/SciRepEval_SciBERT_classifier.ipynb)
 Run this notebook to fine-tune SciBERT model to classify the field of study of any research paper.
 
-\* upload [datasets/CSFCube-master.zip](datasets/CSFCube-master.zip) before running the notebook
-** upload [datasets/PARADE_dataset-main.zip](datasets/PARADE_dataset-main.zip) before running the notebook
+- \* upload [datasets/CSFCube-master.zip](datasets/CSFCube-master.zip) before running the notebook \
+- ** upload [datasets/PARADE_dataset-main.zip](datasets/PARADE_dataset-main.zip) before running the notebook
